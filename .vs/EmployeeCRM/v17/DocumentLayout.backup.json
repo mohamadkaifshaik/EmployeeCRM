@@ -1,0 +1,371 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\skmk1\\Desktop\\DOTNET \u002B Python\\mini_projects\\Project\\EmployeeCRM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9DB5EE-B9E0-46D9-A809-0C526D87A828}|EmployeeCRM.Service\\EmployeeCRM.Service.csproj|c:\\users\\skmk1\\desktop\\dotnet \u002B python\\mini_projects\\project\\employeecrm\\employeecrm.service\\implementation\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9DB5EE-B9E0-46D9-A809-0C526D87A828}|EmployeeCRM.Service\\EmployeeCRM.Service.csproj|solutionrelative:employeecrm.service\\implementation\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB478149-1323-42AF-9AE5-3A0007B7ACAF}|EmployeeCRM.Data\\EmployeeCRM.Data.csproj|c:\\users\\skmk1\\desktop\\dotnet \u002B python\\mini_projects\\project\\employeecrm\\employeecrm.data\\configurations\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB478149-1323-42AF-9AE5-3A0007B7ACAF}|EmployeeCRM.Data\\EmployeeCRM.Data.csproj|solutionrelative:employeecrm.data\\configurations\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D109DC73-A245-429B-8267-AEBE3F69CE2C}|EmployeeCRM.Core\\EmployeeCRM.Core.csproj|c:\\users\\skmk1\\desktop\\dotnet \u002B python\\mini_projects\\project\\employeecrm\\employeecrm.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D109DC73-A245-429B-8267-AEBE3F69CE2C}|EmployeeCRM.Core\\EmployeeCRM.Core.csproj|solutionrelative:employeecrm.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B656F5-C753-4855-B721-86185BF3F37B}|EmployeeCRM.Repository\\EmployeeCRM.Repository.csproj|c:\\users\\skmk1\\desktop\\dotnet \u002B python\\mini_projects\\project\\employeecrm\\employeecrm.repository\\implementation\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B656F5-C753-4855-B721-86185BF3F37B}|EmployeeCRM.Repository\\EmployeeCRM.Repository.csproj|solutionrelative:employeecrm.repository\\implementation\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B656F5-C753-4855-B721-86185BF3F37B}|EmployeeCRM.Repository\\EmployeeCRM.Repository.csproj|c:\\users\\skmk1\\desktop\\dotnet \u002B python\\mini_projects\\project\\employeecrm\\employeecrm.repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B656F5-C753-4855-B721-86185BF3F37B}|EmployeeCRM.Repository\\EmployeeCRM.Repository.csproj|solutionrelative:employeecrm.repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB478149-1323-42AF-9AE5-3A0007B7ACAF}|EmployeeCRM.Data\\EmployeeCRM.Data.csproj|c:\\users\\skmk1\\desktop\\dotnet \u002B python\\mini_projects\\project\\employeecrm\\employeecrm.data\\configurations\\clientconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB478149-1323-42AF-9AE5-3A0007B7ACAF}|EmployeeCRM.Data\\EmployeeCRM.Data.csproj|solutionrelative:employeecrm.data\\configurations\\clientconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D109DC73-A245-429B-8267-AEBE3F69CE2C}|EmployeeCRM.Core\\EmployeeCRM.Core.csproj|c:\\users\\skmk1\\desktop\\dotnet \u002B python\\mini_projects\\project\\employeecrm\\employeecrm.core\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D109DC73-A245-429B-8267-AEBE3F69CE2C}|EmployeeCRM.Core\\EmployeeCRM.Core.csproj|solutionrelative:employeecrm.core\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D109DC73-A245-429B-8267-AEBE3F69CE2C}|EmployeeCRM.Core\\EmployeeCRM.Core.csproj|c:\\users\\skmk1\\desktop\\dotnet \u002B python\\mini_projects\\project\\employeecrm\\employeecrm.core\\interfaces\\idashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D109DC73-A245-429B-8267-AEBE3F69CE2C}|EmployeeCRM.Core\\EmployeeCRM.Core.csproj|solutionrelative:employeecrm.core\\interfaces\\idashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D109DC73-A245-429B-8267-AEBE3F69CE2C}|EmployeeCRM.Core\\EmployeeCRM.Core.csproj|c:\\users\\skmk1\\desktop\\dotnet \u002B python\\mini_projects\\project\\employeecrm\\employeecrm.core\\interfaces\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D109DC73-A245-429B-8267-AEBE3F69CE2C}|EmployeeCRM.Core\\EmployeeCRM.Core.csproj|solutionrelative:employeecrm.core\\interfaces\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D109DC73-A245-429B-8267-AEBE3F69CE2C}|EmployeeCRM.Core\\EmployeeCRM.Core.csproj|c:\\users\\skmk1\\desktop\\dotnet \u002B python\\mini_projects\\project\\employeecrm\\employeecrm.core\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D109DC73-A245-429B-8267-AEBE3F69CE2C}|EmployeeCRM.Core\\EmployeeCRM.Core.csproj|solutionrelative:employeecrm.core\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D109DC73-A245-429B-8267-AEBE3F69CE2C}|EmployeeCRM.Core\\EmployeeCRM.Core.csproj|c:\\users\\skmk1\\desktop\\dotnet \u002B python\\mini_projects\\project\\employeecrm\\employeecrm.core\\dtos\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D109DC73-A245-429B-8267-AEBE3F69CE2C}|EmployeeCRM.Core\\EmployeeCRM.Core.csproj|solutionrelative:employeecrm.core\\dtos\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9DB5EE-B9E0-46D9-A809-0C526D87A828}|EmployeeCRM.Service\\EmployeeCRM.Service.csproj|c:\\users\\skmk1\\desktop\\dotnet \u002B python\\mini_projects\\project\\employeecrm\\employeecrm.service\\implementation\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9DB5EE-B9E0-46D9-A809-0C526D87A828}|EmployeeCRM.Service\\EmployeeCRM.Service.csproj|solutionrelative:employeecrm.service\\implementation\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D109DC73-A245-429B-8267-AEBE3F69CE2C}|EmployeeCRM.Core\\EmployeeCRM.Core.csproj|c:\\users\\skmk1\\desktop\\dotnet \u002B python\\mini_projects\\project\\employeecrm\\employeecrm.core\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D109DC73-A245-429B-8267-AEBE3F69CE2C}|EmployeeCRM.Core\\EmployeeCRM.Core.csproj|solutionrelative:employeecrm.core\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB478149-1323-42AF-9AE5-3A0007B7ACAF}|EmployeeCRM.Data\\EmployeeCRM.Data.csproj|c:\\users\\skmk1\\desktop\\dotnet \u002B python\\mini_projects\\project\\employeecrm\\employeecrm.data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB478149-1323-42AF-9AE5-3A0007B7ACAF}|EmployeeCRM.Data\\EmployeeCRM.Data.csproj|solutionrelative:employeecrm.data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9DB5EE-B9E0-46D9-A809-0C526D87A828}|EmployeeCRM.Service\\EmployeeCRM.Service.csproj|c:\\users\\skmk1\\desktop\\dotnet \u002B python\\mini_projects\\project\\employeecrm\\employeecrm.service\\implementation\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9DB5EE-B9E0-46D9-A809-0C526D87A828}|EmployeeCRM.Service\\EmployeeCRM.Service.csproj|solutionrelative:employeecrm.service\\implementation\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D109DC73-A245-429B-8267-AEBE3F69CE2C}|EmployeeCRM.Core\\EmployeeCRM.Core.csproj|c:\\users\\skmk1\\desktop\\dotnet \u002B python\\mini_projects\\project\\employeecrm\\employeecrm.core\\dtos\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D109DC73-A245-429B-8267-AEBE3F69CE2C}|EmployeeCRM.Core\\EmployeeCRM.Core.csproj|solutionrelative:employeecrm.core\\dtos\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2501CAF1-9461-4EF0-BBAE-66C7870C2A78}|EmployeeCRM.API\\EmployeeCRM.API.csproj|c:\\users\\skmk1\\desktop\\dotnet \u002B python\\mini_projects\\project\\employeecrm\\employeecrm.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2501CAF1-9461-4EF0-BBAE-66C7870C2A78}|EmployeeCRM.API\\EmployeeCRM.API.csproj|solutionrelative:employeecrm.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BDA4D2D-9192-45C3-8511-FA61EA1B7C98}|Employee.CRM.MVC\\Employee.CRM.MVC.csproj|c:\\users\\skmk1\\desktop\\dotnet \u002B python\\mini_projects\\project\\employeecrm\\employee.crm.mvc\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BDA4D2D-9192-45C3-8511-FA61EA1B7C98}|Employee.CRM.MVC\\Employee.CRM.MVC.csproj|solutionrelative:employee.crm.mvc\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2501CAF1-9461-4EF0-BBAE-66C7870C2A78}|EmployeeCRM.API\\EmployeeCRM.API.csproj|c:\\users\\skmk1\\desktop\\dotnet \u002B python\\mini_projects\\project\\employeecrm\\employeecrm.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2501CAF1-9461-4EF0-BBAE-66C7870C2A78}|EmployeeCRM.API\\EmployeeCRM.API.csproj|solutionrelative:employeecrm.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2501CAF1-9461-4EF0-BBAE-66C7870C2A78}|EmployeeCRM.API\\EmployeeCRM.API.csproj|c:\\users\\skmk1\\desktop\\dotnet \u002B python\\mini_projects\\project\\employeecrm\\employeecrm.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2501CAF1-9461-4EF0-BBAE-66C7870C2A78}|EmployeeCRM.API\\EmployeeCRM.API.csproj|solutionrelative:employeecrm.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\skmk1\\Desktop\\DOTNET \u002B Python\\mini_projects\\Project\\EmployeeCRM\\EmployeeCRM.Data\\Configurations\\EmployeeConfiguration.cs",
+              "RelativeDocumentMoniker": "EmployeeCRM.Data\\Configurations\\EmployeeConfiguration.cs",
+              "ToolTip": "C:\\Users\\skmk1\\Desktop\\DOTNET \u002B Python\\mini_projects\\Project\\EmployeeCRM\\EmployeeCRM.Data\\Configurations\\EmployeeConfiguration.cs",
+              "RelativeToolTip": "EmployeeCRM.Data\\Configurations\\EmployeeConfiguration.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAywAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T04:46:53.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\skmk1\\Desktop\\DOTNET \u002B Python\\mini_projects\\Project\\EmployeeCRM\\EmployeeCRM.Data\\Configurations\\ClientConfiguration.cs",
+              "RelativeDocumentMoniker": "EmployeeCRM.Data\\Configurations\\ClientConfiguration.cs",
+              "ToolTip": "C:\\Users\\skmk1\\Desktop\\DOTNET \u002B Python\\mini_projects\\Project\\EmployeeCRM\\EmployeeCRM.Data\\Configurations\\ClientConfiguration.cs",
+              "RelativeToolTip": "EmployeeCRM.Data\\Configurations\\ClientConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T04:45:43.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\skmk1\\Desktop\\DOTNET \u002B Python\\mini_projects\\Project\\EmployeeCRM\\EmployeeCRM.Core\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeCRM.Core\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\skmk1\\Desktop\\DOTNET \u002B Python\\mini_projects\\Project\\EmployeeCRM\\EmployeeCRM.Core\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeCRM.Core\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T04:45:31.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDashboardService.cs",
+              "DocumentMoniker": "C:\\Users\\skmk1\\Desktop\\DOTNET \u002B Python\\mini_projects\\Project\\EmployeeCRM\\EmployeeCRM.Core\\Interfaces\\IDashboardService.cs",
+              "RelativeDocumentMoniker": "EmployeeCRM.Core\\Interfaces\\IDashboardService.cs",
+              "ToolTip": "C:\\Users\\skmk1\\Desktop\\DOTNET \u002B Python\\mini_projects\\Project\\EmployeeCRM\\EmployeeCRM.Core\\Interfaces\\IDashboardService.cs",
+              "RelativeToolTip": "EmployeeCRM.Core\\Interfaces\\IDashboardService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T04:45:20.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IClientService.cs",
+              "DocumentMoniker": "C:\\Users\\skmk1\\Desktop\\DOTNET \u002B Python\\mini_projects\\Project\\EmployeeCRM\\EmployeeCRM.Core\\Interfaces\\IClientService.cs",
+              "RelativeDocumentMoniker": "EmployeeCRM.Core\\Interfaces\\IClientService.cs",
+              "ToolTip": "C:\\Users\\skmk1\\Desktop\\DOTNET \u002B Python\\mini_projects\\Project\\EmployeeCRM\\EmployeeCRM.Core\\Interfaces\\IClientService.cs",
+              "RelativeToolTip": "EmployeeCRM.Core\\Interfaces\\IClientService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T04:45:09.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\skmk1\\Desktop\\DOTNET \u002B Python\\mini_projects\\Project\\EmployeeCRM\\EmployeeCRM.Core\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "EmployeeCRM.Core\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\skmk1\\Desktop\\DOTNET \u002B Python\\mini_projects\\Project\\EmployeeCRM\\EmployeeCRM.Core\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "EmployeeCRM.Core\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T04:44:44.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClientDTO.cs",
+              "DocumentMoniker": "C:\\Users\\skmk1\\Desktop\\DOTNET \u002B Python\\mini_projects\\Project\\EmployeeCRM\\EmployeeCRM.Core\\DTOs\\ClientDTO.cs",
+              "RelativeDocumentMoniker": "EmployeeCRM.Core\\DTOs\\ClientDTO.cs",
+              "ToolTip": "C:\\Users\\skmk1\\Desktop\\DOTNET \u002B Python\\mini_projects\\Project\\EmployeeCRM\\EmployeeCRM.Core\\DTOs\\ClientDTO.cs",
+              "RelativeToolTip": "EmployeeCRM.Core\\DTOs\\ClientDTO.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAIBAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T04:44:34.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "C:\\Users\\skmk1\\Desktop\\DOTNET \u002B Python\\mini_projects\\Project\\EmployeeCRM\\EmployeeCRM.Service\\Implementation\\ClientService.cs",
+              "RelativeDocumentMoniker": "EmployeeCRM.Service\\Implementation\\ClientService.cs",
+              "ToolTip": "C:\\Users\\skmk1\\Desktop\\DOTNET \u002B Python\\mini_projects\\Project\\EmployeeCRM\\EmployeeCRM.Service\\Implementation\\ClientService.cs",
+              "RelativeToolTip": "EmployeeCRM.Service\\Implementation\\ClientService.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAA7wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T04:41:54.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\skmk1\\Desktop\\DOTNET \u002B Python\\mini_projects\\Project\\EmployeeCRM\\EmployeeCRM.Service\\Implementation\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeCRM.Service\\Implementation\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\skmk1\\Desktop\\DOTNET \u002B Python\\mini_projects\\Project\\EmployeeCRM\\EmployeeCRM.Service\\Implementation\\EmployeeService.cs",
+              "RelativeToolTip": "EmployeeCRM.Service\\Implementation\\EmployeeService.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T04:41:25.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\skmk1\\Desktop\\DOTNET \u002B Python\\mini_projects\\Project\\EmployeeCRM\\EmployeeCRM.Core\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeCRM.Core\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\skmk1\\Desktop\\DOTNET \u002B Python\\mini_projects\\Project\\EmployeeCRM\\EmployeeCRM.Core\\Entities\\Employee.cs",
+              "RelativeToolTip": "EmployeeCRM.Core\\Entities\\Employee.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T04:41:07.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\skmk1\\Desktop\\DOTNET \u002B Python\\mini_projects\\Project\\EmployeeCRM\\EmployeeCRM.Repository\\Implementation\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeCRM.Repository\\Implementation\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\skmk1\\Desktop\\DOTNET \u002B Python\\mini_projects\\Project\\EmployeeCRM\\EmployeeCRM.Repository\\Implementation\\EmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeCRM.Repository\\Implementation\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T04:37:37.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\skmk1\\Desktop\\DOTNET \u002B Python\\mini_projects\\Project\\EmployeeCRM\\EmployeeCRM.Core\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeCRM.Core\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\skmk1\\Desktop\\DOTNET \u002B Python\\mini_projects\\Project\\EmployeeCRM\\EmployeeCRM.Core\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "EmployeeCRM.Core\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAywAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T04:32:49.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\skmk1\\Desktop\\DOTNET \u002B Python\\mini_projects\\Project\\EmployeeCRM\\EmployeeCRM.Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeCRM.Repository\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\skmk1\\Desktop\\DOTNET \u002B Python\\mini_projects\\Project\\EmployeeCRM\\EmployeeCRM.Repository\\GenericRepository.cs",
+              "RelativeToolTip": "EmployeeCRM.Repository\\GenericRepository.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAiwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T04:31:57.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\skmk1\\Desktop\\DOTNET \u002B Python\\mini_projects\\Project\\EmployeeCRM\\EmployeeCRM.Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeCRM.Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\skmk1\\Desktop\\DOTNET \u002B Python\\mini_projects\\Project\\EmployeeCRM\\EmployeeCRM.Data\\AppDbContext.cs",
+              "RelativeToolTip": "EmployeeCRM.Data\\AppDbContext.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA4wAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T04:29:52.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\skmk1\\Desktop\\DOTNET \u002B Python\\mini_projects\\Project\\EmployeeCRM\\EmployeeCRM.Service\\Implementation\\TaskService.cs",
+              "RelativeDocumentMoniker": "EmployeeCRM.Service\\Implementation\\TaskService.cs",
+              "ToolTip": "C:\\Users\\skmk1\\Desktop\\DOTNET \u002B Python\\mini_projects\\Project\\EmployeeCRM\\EmployeeCRM.Service\\Implementation\\TaskService.cs",
+              "RelativeToolTip": "EmployeeCRM.Service\\Implementation\\TaskService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T08:17:29.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TaskDTO.cs",
+              "DocumentMoniker": "C:\\Users\\skmk1\\Desktop\\DOTNET \u002B Python\\mini_projects\\Project\\EmployeeCRM\\EmployeeCRM.Core\\DTOs\\TaskDTO.cs",
+              "RelativeDocumentMoniker": "EmployeeCRM.Core\\DTOs\\TaskDTO.cs",
+              "ToolTip": "C:\\Users\\skmk1\\Desktop\\DOTNET \u002B Python\\mini_projects\\Project\\EmployeeCRM\\EmployeeCRM.Core\\DTOs\\TaskDTO.cs",
+              "RelativeToolTip": "EmployeeCRM.Core\\DTOs\\TaskDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T08:17:22.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\skmk1\\Desktop\\DOTNET \u002B Python\\mini_projects\\Project\\EmployeeCRM\\Employee.CRM.MVC\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Employee.CRM.MVC\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\skmk1\\Desktop\\DOTNET \u002B Python\\mini_projects\\Project\\EmployeeCRM\\Employee.CRM.MVC\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Employee.CRM.MVC\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T08:17:02.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\skmk1\\Desktop\\DOTNET \u002B Python\\mini_projects\\Project\\EmployeeCRM\\EmployeeCRM.API\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeCRM.API\\Program.cs",
+              "ToolTip": "C:\\Users\\skmk1\\Desktop\\DOTNET \u002B Python\\mini_projects\\Project\\EmployeeCRM\\EmployeeCRM.API\\Program.cs",
+              "RelativeToolTip": "EmployeeCRM.API\\Program.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAywAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T08:12:50.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\skmk1\\Desktop\\DOTNET \u002B Python\\mini_projects\\Project\\EmployeeCRM\\EmployeeCRM.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EmployeeCRM.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\skmk1\\Desktop\\DOTNET \u002B Python\\mini_projects\\Project\\EmployeeCRM\\EmployeeCRM.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EmployeeCRM.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-17T08:10:49.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\skmk1\\Desktop\\DOTNET \u002B Python\\mini_projects\\Project\\EmployeeCRM\\EmployeeCRM.API\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "EmployeeCRM.API\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\skmk1\\Desktop\\DOTNET \u002B Python\\mini_projects\\Project\\EmployeeCRM\\EmployeeCRM.API\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "EmployeeCRM.API\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T08:08:32.782Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

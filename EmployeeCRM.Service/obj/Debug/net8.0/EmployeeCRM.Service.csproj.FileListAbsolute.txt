@@ -1,0 +1,16 @@
+C:\Users\skmk1\Desktop\DOTNET + Python\mini_projects\Project\EmployeeCRM\EmployeeCRM.Service\bin\Debug\net8.0\EmployeeCRM.Service.deps.json
+C:\Users\skmk1\Desktop\DOTNET + Python\mini_projects\Project\EmployeeCRM\EmployeeCRM.Service\bin\Debug\net8.0\EmployeeCRM.Service.dll
+C:\Users\skmk1\Desktop\DOTNET + Python\mini_projects\Project\EmployeeCRM\EmployeeCRM.Service\bin\Debug\net8.0\EmployeeCRM.Service.pdb
+C:\Users\skmk1\Desktop\DOTNET + Python\mini_projects\Project\EmployeeCRM\EmployeeCRM.Service\bin\Debug\net8.0\EmployeeCRM.Core.dll
+C:\Users\skmk1\Desktop\DOTNET + Python\mini_projects\Project\EmployeeCRM\EmployeeCRM.Service\bin\Debug\net8.0\EmployeeCRM.Core.pdb
+C:\Users\skmk1\Desktop\DOTNET + Python\mini_projects\Project\EmployeeCRM\EmployeeCRM.Service\obj\Debug\net8.0\EmployeeCRM.Service.csproj.AssemblyReference.cache
+C:\Users\skmk1\Desktop\DOTNET + Python\mini_projects\Project\EmployeeCRM\EmployeeCRM.Service\obj\Debug\net8.0\EmployeeCRM.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skmk1\Desktop\DOTNET + Python\mini_projects\Project\EmployeeCRM\EmployeeCRM.Service\obj\Debug\net8.0\EmployeeCRM.Service.AssemblyInfoInputs.cache
+C:\Users\skmk1\Desktop\DOTNET + Python\mini_projects\Project\EmployeeCRM\EmployeeCRM.Service\obj\Debug\net8.0\EmployeeCRM.Service.AssemblyInfo.cs
+C:\Users\skmk1\Desktop\DOTNET + Python\mini_projects\Project\EmployeeCRM\EmployeeCRM.Service\obj\Debug\net8.0\EmployeeCRM.Service.csproj.CoreCompileInputs.cache
+C:\Users\skmk1\Desktop\DOTNET + Python\mini_projects\Project\EmployeeCRM\EmployeeCRM.Service\obj\Debug\net8.0\EmployeeCRM.Service.sourcelink.json
+C:\Users\skmk1\Desktop\DOTNET + Python\mini_projects\Project\EmployeeCRM\EmployeeCRM.Service\obj\Debug\net8.0\Employee.2EFFE6BA.Up2Date
+C:\Users\skmk1\Desktop\DOTNET + Python\mini_projects\Project\EmployeeCRM\EmployeeCRM.Service\obj\Debug\net8.0\EmployeeCRM.Service.dll
+C:\Users\skmk1\Desktop\DOTNET + Python\mini_projects\Project\EmployeeCRM\EmployeeCRM.Service\obj\Debug\net8.0\refint\EmployeeCRM.Service.dll
+C:\Users\skmk1\Desktop\DOTNET + Python\mini_projects\Project\EmployeeCRM\EmployeeCRM.Service\obj\Debug\net8.0\EmployeeCRM.Service.pdb
+C:\Users\skmk1\Desktop\DOTNET + Python\mini_projects\Project\EmployeeCRM\EmployeeCRM.Service\obj\Debug\net8.0\ref\EmployeeCRM.Service.dll

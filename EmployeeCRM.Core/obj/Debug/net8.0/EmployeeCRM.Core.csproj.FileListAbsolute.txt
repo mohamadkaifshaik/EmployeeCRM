@@ -1,0 +1,15 @@
+C:\Users\skmk1\Desktop\DOTNET + Python\mini_projects\Project\EmployeeCRM\EmployeeCRM.Core\bin\Debug\net8.0\EmployeeCRM.Core.deps.json
+C:\Users\skmk1\Desktop\DOTNET + Python\mini_projects\Project\EmployeeCRM\EmployeeCRM.Core\bin\Debug\net8.0\EmployeeCRM.Core.runtimeconfig.json
+C:\Users\skmk1\Desktop\DOTNET + Python\mini_projects\Project\EmployeeCRM\EmployeeCRM.Core\bin\Debug\net8.0\EmployeeCRM.Core.dll
+C:\Users\skmk1\Desktop\DOTNET + Python\mini_projects\Project\EmployeeCRM\EmployeeCRM.Core\bin\Debug\net8.0\EmployeeCRM.Core.pdb
+C:\Users\skmk1\Desktop\DOTNET + Python\mini_projects\Project\EmployeeCRM\EmployeeCRM.Core\obj\Debug\net8.0\EmployeeCRM.Core.csproj.AssemblyReference.cache
+C:\Users\skmk1\Desktop\DOTNET + Python\mini_projects\Project\EmployeeCRM\EmployeeCRM.Core\obj\Debug\net8.0\EmployeeCRM.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skmk1\Desktop\DOTNET + Python\mini_projects\Project\EmployeeCRM\EmployeeCRM.Core\obj\Debug\net8.0\EmployeeCRM.Core.AssemblyInfoInputs.cache
+C:\Users\skmk1\Desktop\DOTNET + Python\mini_projects\Project\EmployeeCRM\EmployeeCRM.Core\obj\Debug\net8.0\EmployeeCRM.Core.AssemblyInfo.cs
+C:\Users\skmk1\Desktop\DOTNET + Python\mini_projects\Project\EmployeeCRM\EmployeeCRM.Core\obj\Debug\net8.0\EmployeeCRM.Core.csproj.CoreCompileInputs.cache
+C:\Users\skmk1\Desktop\DOTNET + Python\mini_projects\Project\EmployeeCRM\EmployeeCRM.Core\obj\Debug\net8.0\EmployeeCRM.Core.sourcelink.json
+C:\Users\skmk1\Desktop\DOTNET + Python\mini_projects\Project\EmployeeCRM\EmployeeCRM.Core\obj\Debug\net8.0\EmployeeCRM.Core.dll
+C:\Users\skmk1\Desktop\DOTNET + Python\mini_projects\Project\EmployeeCRM\EmployeeCRM.Core\obj\Debug\net8.0\refint\EmployeeCRM.Core.dll
+C:\Users\skmk1\Desktop\DOTNET + Python\mini_projects\Project\EmployeeCRM\EmployeeCRM.Core\obj\Debug\net8.0\EmployeeCRM.Core.pdb
+C:\Users\skmk1\Desktop\DOTNET + Python\mini_projects\Project\EmployeeCRM\EmployeeCRM.Core\obj\Debug\net8.0\EmployeeCRM.Core.genruntimeconfig.cache
+C:\Users\skmk1\Desktop\DOTNET + Python\mini_projects\Project\EmployeeCRM\EmployeeCRM.Core\obj\Debug\net8.0\ref\EmployeeCRM.Core.dll
